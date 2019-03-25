@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/brunodarshan/brunodarshan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I consider myself a software engineer. I'm 24 year old and 5 years of knowledge and experience on Design, Web and Programming. I believe what build apps is a travel and I have good sails available. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My skill are:
 
-### Markdown
+- UX/UI Design
+- Web Development
+- Mobile Development
+- Comunication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+About my abilities I believe have to consistent knowlegments to use and enjoyment and then are:
 
-```markdown
-Syntax highlighted code block
+- Ruby on Rails
+- React Native
+- Flutter
+- Python
+- Node and your technologies
+- Reading compreension of English
 
-# Header 1
-## Header 2
-### Header 3
+## Follow me!
 
-- Bulleted
-- List
+Let's talk about techonology and if possible eat a pizza ;D
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunodarshan/brunodarshan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Follow me on Twitter @brunodarshan;](https://twitter.com/brunodarshan)
+- [Bruno Darshan on Linkedin;](https://www.linkedin.com/in/brunodarshan/)
+- [Send-me a Hi!;](tel:+5586933000711)
+- [Or a e-mail](mailto:brunodarshan@gmail.com)
